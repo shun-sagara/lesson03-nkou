@@ -138,15 +138,25 @@ a {
   height: 40px;
   font-size: 15px;
   color: #272727;
-  padding-left: 20px;
-  padding-right: 20px;
   position: relative;
 }
 .btnanother a {
   display: block;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 19px;
 }
 .btnanother a:hover {
   color: #1f286f;
+}
+.btnanother a:hover .btn2 {
+  background-position:left bottom;
+}
+.btnanother a:hover .btn3 {
+  background-position:left bottom;
+}
+.btnanother a:hover .btn4 {
+  background-position:left bottom;
 }
 .btn2 {
   position: absolute;
@@ -156,9 +166,7 @@ a {
   width:140px;
   height: 10px;
   margin: 0;
-}
-.btn2:hover {
-  background-position:left bottom;
+  display: block;
 }
 
 .btn3 {
@@ -169,9 +177,7 @@ a {
   width:140px;
   height: 10px;
   margin: 0;
-}
-.btn3:hover {
-  background-position:left bottom;
+  display: block;
 }
 
 .btn4 {
@@ -183,9 +189,6 @@ a {
   height: 10px;
   margin: 0;
 }
-.btn4:hover {
-  background-position:left bottom;
-}
 
 .coverbtn {
   display: flex;
@@ -193,17 +196,19 @@ a {
 .infobtn {
   font-size: 15px;
   border: solid 1px #1f286f;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 180px;
-  height: 30px;
+  height: 40px;
   position: relative;
-  padding-top: 5px;
   margin-right: 20px;
   margin-left: 70px;
 }
 .infobtn a{
   color: #1f286f;
   display: block;
+  padding: 9.5px 37.5px;
 }
 .infobtn a:after {
   content: url("../images/blueicon.png");
@@ -222,15 +227,17 @@ a {
 .infobtn2 {
   font-size: 15px;
   border: solid 1px #1f286f;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 180px;
-  height: 30px;
+  height: 40px;
   position: relative;
-  padding-top: 5px;
 }
 .infobtn2 a{
   color: #1f286f;
   display: block;
+  padding: 9.5px 60px;
 }
 .infobtn2 a:after {
   content: url("../images/blueicon.png");
@@ -669,7 +676,7 @@ p.small {
 }
 .tableinfo tr th {
   background-color: #FFFFFF;
-  width: 800px;
+  width: 400px;
   height: 130px;
   padding: 10px 30px;
   border: 3px solid;
@@ -682,7 +689,7 @@ p.small {
   content: url("../images/blackicon.png");
   position: absolute;
   top: 50px;
-  left: 400px;
+  right: 30px;
 }
 .tableinfo tr th a {
   font-size: 25px;
@@ -690,6 +697,7 @@ p.small {
   color: #272727;
   margin: 0;
   display: block;
+  padding-right: 40px;
 }
 .tableinfo tr th p {
   font-size: 13px;
@@ -704,6 +712,8 @@ p.small {
 .tableinfo tr th:hover {
   background-image: url("../images/border-image.png");
   background-repeat: repeat;
+  background-color:rgba(255,255,255,0.8);
+  background-blend-mode:lighten;
 }
 
 .movie {
@@ -875,8 +885,12 @@ p.small {
   right: 23px;
   bottom: 40px;
 }
-.plusoneth :hover {
+.plusoneth:hover {
   opacity: 0.7;
+  background-image: url("../images/border-image.png");
+  background-repeat: repeat;
+  background-color:rgba(255,255,255,0.7);
+  background-blend-mode:lighten;
 }
 
 .Njr {
