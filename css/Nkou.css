@@ -3,24 +3,24 @@ a {
 }
 
 @font-face {
-    font-family: "AxisStd-UltraLight";
-    src: url("../fonts/a9052c68-9f8f-4738-b7b3-28b7b4074c0e.eot?#iefix");
-    src: url("../fonts/a9052c68-9f8f-4738-b7b3-28b7b4074c0e.eot?#iefix") format("eot"), url("../fonts/9debccc6-f756-4d46-a835-ac342ddbcaf0.woff2") format("woff2"), url("../fonts/726b29c5-dc24-49d5-a06e-107b62843f0b.woff") format("woff"), url("../fonts/fcf3fe94-ef76-4736-8626-e84ee1a9ba39.ttf") format("truetype"), url("../fonts/3d6f6af4-77aa-4896-b039-94e43492d9c6.svg#3d6f6af4-77aa-4896-b039-94e43492d9c6") format("svg");
+  font-family: "AxisStd-UltraLight";
+  src: url("../fonts/a9052c68-9f8f-4738-b7b3-28b7b4074c0e.eot?#iefix");
+  src: url("../fonts/a9052c68-9f8f-4738-b7b3-28b7b4074c0e.eot?#iefix") format("eot"), url("../fonts/9debccc6-f756-4d46-a835-ac342ddbcaf0.woff2") format("woff2"), url("../fonts/726b29c5-dc24-49d5-a06e-107b62843f0b.woff") format("woff"), url("../fonts/fcf3fe94-ef76-4736-8626-e84ee1a9ba39.ttf") format("truetype"), url("../fonts/3d6f6af4-77aa-4896-b039-94e43492d9c6.svg#3d6f6af4-77aa-4896-b039-94e43492d9c6") format("svg");
 }
 @font-face {
-    font-family: "AxisStd-ExtraLight";
-    src: url("../fonts/cae76507-fde0-48d2-8060-f95b67662772.eot?#iefix");
-    src: url("../fonts/cae76507-fde0-48d2-8060-f95b67662772.eot?#iefix") format("eot"), url("../fonts/9adc0413-55bd-4001-9bc0-f823476aa22e.woff2") format("woff2"), url("../fonts/25516da4-2e65-456a-bc9c-cc6960f6c384.woff") format("woff"), url("../fonts/8c439ac8-83ef-4635-a477-df9c64f97b62.ttf") format("truetype"), url("../fonts/93d1f11a-903e-4293-a2f1-cd55b87b5087.svg#93d1f11a-903e-4293-a2f1-cd55b87b5087") format("svg");
+  font-family: "AxisStd-ExtraLight";
+  src: url("../fonts/cae76507-fde0-48d2-8060-f95b67662772.eot?#iefix");
+  src: url("../fonts/cae76507-fde0-48d2-8060-f95b67662772.eot?#iefix") format("eot"), url("../fonts/9adc0413-55bd-4001-9bc0-f823476aa22e.woff2") format("woff2"), url("../fonts/25516da4-2e65-456a-bc9c-cc6960f6c384.woff") format("woff"), url("../fonts/8c439ac8-83ef-4635-a477-df9c64f97b62.ttf") format("truetype"), url("../fonts/93d1f11a-903e-4293-a2f1-cd55b87b5087.svg#93d1f11a-903e-4293-a2f1-cd55b87b5087") format("svg");
 }
 @font-face {
-    font-family: "AxisStd-Light";
-    src: url("../fonts/aa7c9f5f-bd2d-4fbb-a4a5-82ba2cd0189c.eot?#iefix");
-    src: url("../fonts/aa7c9f5f-bd2d-4fbb-a4a5-82ba2cd0189c.eot?#iefix") format("eot"), url("../fonts/ca94208f-21dd-4dc8-ab7c-057d8dbfcccb.woff2") format("woff2"), url("../fonts/18820f9e-d51e-43be-9d0f-e510d9d1878a.woff") format("woff"), url("../fonts/cb3a3886-7dec-420d-bf42-698737ce3561.ttf") format("truetype"), url("../fonts/9bdde1f9-7637-4fa1-994d-2f2ad4929b1f.svg#9bdde1f9-7637-4fa1-994d-2f2ad4929b1f") format("svg");
+  font-family: "AxisStd-Light";
+  src: url("../fonts/aa7c9f5f-bd2d-4fbb-a4a5-82ba2cd0189c.eot?#iefix");
+  src: url("../fonts/aa7c9f5f-bd2d-4fbb-a4a5-82ba2cd0189c.eot?#iefix") format("eot"), url("../fonts/ca94208f-21dd-4dc8-ab7c-057d8dbfcccb.woff2") format("woff2"), url("../fonts/18820f9e-d51e-43be-9d0f-e510d9d1878a.woff") format("woff"), url("../fonts/cb3a3886-7dec-420d-bf42-698737ce3561.ttf") format("truetype"), url("../fonts/9bdde1f9-7637-4fa1-994d-2f2ad4929b1f.svg#9bdde1f9-7637-4fa1-994d-2f2ad4929b1f") format("svg");
 }
 @font-face {
-    font-family: "AxisStd-Regular";
-    src: url("../fonts/7e908add-1f72-4926-8e0d-33613fad3a87.eot?#iefix");
-    src: url("../fonts/7e908add-1f72-4926-8e0d-33613fad3a87.eot?#iefix") format("eot"), url("../fonts/d226afef-6536-4b18-9b28-defffcc4baae.woff2") format("woff2"), url("../fonts/6e9eb620-9339-4b2e-bb9b-d514def96de7.woff") format("woff"), url("../fonts/a71ba532-858c-440c-8abd-e89a2ae8efea.ttf") format("truetype"), url("../fonts/5d948218-1de1-4508-b1a6-fe03ccced886.svg#5d948218-1de1-4508-b1a6-fe03ccced886") format("svg");
+  font-family: "AxisStd-Regular";
+  src: url("../fonts/7e908add-1f72-4926-8e0d-33613fad3a87.eot?#iefix");
+  src: url("../fonts/7e908add-1f72-4926-8e0d-33613fad3a87.eot?#iefix") format("eot"), url("../fonts/d226afef-6536-4b18-9b28-defffcc4baae.woff2") format("woff2"), url("../fonts/6e9eb620-9339-4b2e-bb9b-d514def96de7.woff") format("woff"), url("../fonts/a71ba532-858c-440c-8abd-e89a2ae8efea.ttf") format("truetype"), url("../fonts/5d948218-1de1-4508-b1a6-fe03ccced886.svg#5d948218-1de1-4508-b1a6-fe03ccced886") format("svg");
 }
 
 #page {
@@ -405,10 +405,10 @@ a {
 }
 .phrase h3 {
   position: relative;
-  font-weight: normal;
   font-size: 20px;
   letter-spacing: 0.1em;
   line-height: 1.7em;
+  font-family: "AxisStd-Regular", sans-serif;
 }
 .phrase h3:before {
   content: '';
@@ -433,7 +433,6 @@ a {
   line-height: 40px;
 }
 .maintopic1 h3 {
-  font-weight: normal;
   font-size: 26px;
   border-bottom: 1px solid #272727;
   position: relative;
@@ -450,7 +449,6 @@ a {
 
 .content1 {
   display: inline-block;
-  font-weight: normal;
   font-size: 24px;
   padding-right: 10px;
   border-right: 1px solid #272727;
@@ -512,7 +510,6 @@ a {
 .maintopic2 h2 {
   border-bottom: 1px solid #272727;
   position: relative;
-  font-weight: normal;
   font-size: 25px;
   margin-top: 80px;
   padding-bottom: 10px;
@@ -532,7 +529,6 @@ a {
   margin-top: 100px;
   padding-bottom: 30px;
   font-size: 25px;
-  font-weight: 400;
 }
 .maintopic2 p {
   font-size: 16px;
@@ -563,7 +559,6 @@ p.additional {
   padding-bottom: 30px;
   margin-top: 50px;
   font-size: 25px;
-  font-weight: normal;
 }
 .maintopic3 p {
   font-size: 16px;
@@ -640,7 +635,7 @@ p.additional {
 }
 .textright h3 {
   font-size: 22px;
-  font-weight: 500;
+  font-weight: bold;
   line-height: 38px;
 }
 .textright p {
@@ -661,7 +656,7 @@ p.additional {
 }
 .textleft h3 {
   font-size: 22px;
-  font-weight: 500;
+  font-weight: bold;
   line-height: 38px;
 }
 .textleft p {
@@ -727,6 +722,7 @@ p.small {
   font-weight: 400;
   color: #272727;
   margin: 0;
+  padding-top: 10px;
 }
 
 .tableinfo th:hover {
@@ -965,27 +961,34 @@ p.small {
 }
 
 .bottominfo div {
-  width: 170px;
+  width: 175px;
   float: left;
-  margin-right: 15px;
+  margin-right: 10px;
+  line-height:1em;
+  margin-top: 30px;
 }
 .bottominfo h5 a {
   color: #000066;
   font-size: 16px;
   letter-spacing: 1px;
-  font-weight: 500;
   font-family: "AxisStd-Light",sans-serif;
+}
+.bottominfo h5 {
+  margin: 0;
+  margin-bottom: 5px;
 }
 .bottominfo h5 a:hover {
   text-decoration: underline;
 }
 .bottominfo ul {
   padding-left: 0;
+  margin: 0;
 }
 .bottominfo ul li {
   list-style: none;
   text-align: left;
   line-height: 25px;
+  margin-top: 0;
 }
 .bottominfo ul li a{
   color: #272727;
@@ -999,6 +1002,7 @@ p.small {
 .rubi {
   font-size: 10px;
   margin-bottom: 0;
+  margin-top: -15px;
 }
 .rubi a {
   color: #000066;
